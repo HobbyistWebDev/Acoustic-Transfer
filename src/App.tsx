@@ -1,9 +1,13 @@
 import styles from "./App.module.css"
+import Encoder from "./components/encoder/Encoder"
 
 function App()
 {
-  return <div>
-    <a>fjndnjfks</a>
+  return <div className={styles.App}>
+    <a>fjndkmhgnfhjinombfghjiongfiohjfioghijogfjiohfjionjfks</a>
+    <a>fjndkmhgnfhjinombfghjiongfiohjfioghijogfjiohfjionjfks</a>
+    <Encoder/>
+    <Encoder/>
   </div>
 }
 
