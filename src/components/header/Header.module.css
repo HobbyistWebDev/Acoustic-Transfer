@@ -1,0 +1,10 @@
+
+.Header {
+    grid-column: span 2;
+}
+
+@media (max-width: 768px) {
+    .Header {
+        grid-column: span 1;
+    }
+}

@@ -1,0 +1,17 @@
+.ActionButton {
+    height: 0px;
+    min-height: 100%;
+}
+
+.SubmitButton {
+    width: 30%;
+    padding: 6px;
+}
+
+.Image {
+    width: 100%;
+}
+
+.TextArea {
+    field-sizing: content;
+}

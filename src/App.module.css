@@ -4,5 +4,10 @@
     grid-template-columns: 1fr 1fr;
     grid-template-rows: auto 1fr;
     gap: 16px;
+}
 
+@media (max-width: 768px) {
+    .App {
+        grid-template-columns: 1fr;
+    }
 }
